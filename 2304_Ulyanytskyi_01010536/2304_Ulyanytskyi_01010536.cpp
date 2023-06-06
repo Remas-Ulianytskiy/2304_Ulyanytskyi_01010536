@@ -12,7 +12,7 @@ int main()
 {
     const double first_distance = 1.5;
     double result = 0;
-    double days_number;
+    int days_number;
 
     cout << "Enter the number of days the turtle will travel: ";
     days_number = get_user_value();
